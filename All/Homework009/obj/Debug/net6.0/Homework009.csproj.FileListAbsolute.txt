@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\bin\Debug\net6.0\Homework009.exe
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\bin\Debug\net6.0\Homework009.deps.json
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\bin\Debug\net6.0\Homework009.runtimeconfig.json
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\bin\Debug\net6.0\Homework009.dll
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\bin\Debug\net6.0\Homework009.pdb
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\obj\Debug\net6.0\Homework009.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\obj\Debug\net6.0\Homework009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\obj\Debug\net6.0\Homework009.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\obj\Debug\net6.0\Homework009.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\obj\Debug\net6.0\Homework009.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\obj\Debug\net6.0\Homework009.dll
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\obj\Debug\net6.0\refint\Homework009.dll
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\obj\Debug\net6.0\Homework009.pdb
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\obj\Debug\net6.0\Homework009.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\HomeWork\ForGithub\Homework\All\Homework009\obj\Debug\net6.0\ref\Homework009.dll
